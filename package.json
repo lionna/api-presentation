@@ -1,0 +1,12 @@
+{
+  "name": "presentation-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "dotnet restore ./Api/Api.csproj && dotnet build ./Api/Api.csproj",
+    "start": "dotnet run --project ./Api/Api.csproj",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^12.17.1"
+  }
+}
