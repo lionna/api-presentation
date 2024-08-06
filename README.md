@@ -16,9 +16,9 @@ Used API `https://infra.devskills.app/api/interactive-presentation/v4`:
 - [x] Server data in a [SQLite]
 - [x] xUnit test
 
-![image](https://github.com/ffc1e12/interactive-presentation-polls-and-votes-backend-level-2_102e118-2e57g0/assets/170366343/330c227e-3edc-45fa-a8d9-4ceab34dbba8)
+![image](https://github.com/user-attachments/assets/0bc78cf8-f10c-4ff0-9a4f-a838f03494a8)
 
-![image](https://github.com/ffc1e12/interactive-presentation-polls-and-votes-backend-level-2_102e118-2e57g0/assets/170366343/502922bd-de7a-48d7-a9ab-1147bba359e4)
+![image](https://github.com/user-attachments/assets/8cbf8759-aed3-46e0-b94e-f0d99660052c)
 
 
 # TASK
